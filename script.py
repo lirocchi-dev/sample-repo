@@ -4,5 +4,5 @@ from os import rename
 
 import requests
 
-name = input("Your name? ")
-print("Hello,", name)
+x = 10
+print("The variable is {}".format(x))
